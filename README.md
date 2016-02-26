@@ -15,3 +15,6 @@ Binderized by [Kyle Cranmer](https://github.com/cranmer) and [Lukas Heinrich](ht
 Details on the docker image:
 
 [![](https://badge.imagelayers.io/cranmer/ligo-binder:latest.svg)](https://imagelayers.io/?images=cranmer/ligo-binder:latest 'Get your own badge on imagelayers.io')
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/cranmer/ligo-binder/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
